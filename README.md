@@ -1,4 +1,4 @@
-# thermoguard
+# Thermoguard
 
 A multi-threaded **industrial temperature control system** written in modern C++17.
 A simulated heated process is measured by a noisy sensor, controlled by a PID loop
