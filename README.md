@@ -1,4 +1,4 @@
-# Thermoguard
+# ThermoGuard
 
 A multi-threaded **industrial temperature control system** written in modern C++17.
 A simulated heated process is measured by a noisy sensor, controlled by a PID loop
@@ -8,6 +8,7 @@ It is a software model of the kind of loop found in industrial automation and
 embedded equipment (heater + sensor + controller + alarms + network interface).
 
 [![CI](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/main.yml/badge.svg)](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/main.yml)
+
 ## Architecture
 
 ```mermaid
