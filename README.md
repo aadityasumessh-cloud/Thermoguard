@@ -8,7 +8,6 @@ It is a software model of the kind of loop found in industrial automation and
 embedded equipment (heater + sensor + controller + alarms + network interface).
 
 [![CI](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/ci.yml/badge.svg)](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/ci.yml)
-
 ## Architecture
 
 ```mermaid
