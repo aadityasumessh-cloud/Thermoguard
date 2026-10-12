@@ -7,7 +7,7 @@ with a safety interlock, and exposed over **TCP** (commands) and **UDP** (teleme
 It is a software model of the kind of loop found in industrial automation and
 embedded equipment (heater + sensor + controller + alarms + network interface).
 
-[![CI](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/ci.yml/badge.svg)](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/ci.yml)
+[![CI](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/main.yml/badge.svg)](https://github.com/aadityasumessh-cloud/Thermoguard/actions/workflows/main.yml)
 ## Architecture
 
 ```mermaid
